@@ -1,0 +1,10 @@
+{
+  "name": "CryptoSnake",
+  "description": "Mainkan CryptoSnake! Kumpulkan token, panjangkan ular, dan masuk leaderboard mingguan!",
+  "icon": "https://yourcdn.com/icon.png",
+  "url": "https://cryptosnake.yourdomain.com",
+  "developer": {
+    "name": "YourName",
+    "url": "https://yourdomain.com"
+  }
+}
